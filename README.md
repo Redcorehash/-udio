@@ -1,5 +1,8 @@
 # Проект: Генерация музыки с помощью Udio
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Redcorehash/-udio/refs/heads/main/Udio_AI_Logo.png" width="400"/>
+<p>
+<br>
 [![Официальный сайт](https://img.shields.io/badge/Официальный_сайт-Udio.com-blue?style=for-the-badge&logo=google-chrome)](https://www.udio.com)  
 [![Подпишись на меня](https://img.shields.io/badge/Подпишись_на_меня-Udio-ff69b4?style=for-the-badge&logo=udio)](https://www.udio.com/creators/djcore)
 
