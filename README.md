@@ -1,6 +1,7 @@
 # Проект: Генерация музыки с помощью Udio
 
-[![Официальный сайт](https://img.shields.io/badge/Официальный_сайт-Udio.com-blue?style=for-the-badge&logo=google-chrome)](https://www.udio.com)
+[![Официальный сайт](https://img.shields.io/badge/Официальный_сайт-Udio.com-blue?style=for-the-badge&logo=google-chrome)](https://www.udio.com)  
+[![Подпишись на меня](https://img.shields.io/badge/Подпишись_на_меня-Udio-ff69b4?style=for-the-badge&logo=udio)](https://www.udio.com/creators/djcore)
 
 ## Описание
 [Udio](https://www.udio.com) — это мощная нейросеть, которая позволяет создавать музыку бесплатно! Каждому пользователю предоставляется **210 кредитов**, которые можно использовать для генерации треков. Этот проект поможет вам начать работу с Udio и максимально эффективно использовать доступные ресурсы.
